@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-v3.svg" alt="Marah Al-Naimat, junior full-stack developer" width="100%" />
+<img src="assets/banner-v4.svg" alt="Marah Al-Naimat, junior full-stack developer" width="100%" />
 
 </div>
 
