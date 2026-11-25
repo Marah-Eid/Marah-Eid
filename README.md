@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pixel.svg" alt="Marah Al-Naimat, pixel art developer at her laptop" width="100%" />
+<img src="assets/banner-v2.svg" alt="Marah Al-Naimat, junior full-stack developer" width="100%" />
 
 </div>
 
