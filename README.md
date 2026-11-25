@@ -19,23 +19,21 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 
 <img src="assets/h-projects.svg" alt="Projects" width="100%" />
 
-<a href="https://github.com/Marah-Eid/SWAG-App"><img src="assets/card-swag.svg" alt="SWAG: graduation mobile app, React Native and Expo" width="100%" /></a>
-
-<a href="https://github.com/Marah-Eid/FinalProject"><img src="assets/card-final.svg" alt="Final Project: Orange Coding School graduation, HTML, CSS, JavaScript" width="100%" /></a>
-
-<a href="https://github.com/Marah-Eid/EcommerceMVC"><img src="assets/card-ecommerce.svg" alt="EcommerceMVC: e-commerce web app, ASP.NET Core MVC, SQL Server" width="100%" /></a>
-
-<a href="https://github.com/Marah-Eid/SportsShoesEcommerceV2"><img src="assets/card-shoes.svg" alt="Sports Shoes: responsive online shop, HTML, CSS, JavaScript" width="100%" /></a>
-
-<a href="https://github.com/Marah-Eid/IdentityApp"><img src="assets/card-identity.svg" alt="Identity App: sign-up, login and roles with ASP.NET Core Identity" width="100%" /></a>
+| | Project | What it is | Built with |
+| :---: | --- | --- | --- |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[SWAG](https://github.com/Marah-Eid/SWAG-App)** | Graduation project, a mobile app | `React Native` `Expo` |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[Final Project](https://github.com/Marah-Eid/FinalProject)** | Orange Coding School graduation project | `HTML` `CSS` `JavaScript` |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[EcommerceMVC](https://github.com/Marah-Eid/EcommerceMVC)** | E-commerce web app | `ASP.NET Core MVC` `SQL Server` |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[Sports Shoes](https://github.com/Marah-Eid/SportsShoesEcommerceV2)** | Responsive online shop | `HTML` `CSS` `JavaScript` |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[Identity App](https://github.com/Marah-Eid/IdentityApp)** | Sign-up, login and roles | `ASP.NET Core Identity` |
 
 <img src="assets/h-connect.svg" alt="Connect" width="100%" />
 
 <div align="center">
 
-<a href="mailto:maraheid228@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="64" /></a>
+<a href="mailto:maraheid228@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="36" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/marahalnaimat"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="64" /></a>
+<a href="https://www.linkedin.com/in/marahalnaimat"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="36" /></a>
 
 </div>
 
