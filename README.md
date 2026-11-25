@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="assets/h-about.svg" alt="About me" width="100%" />
+<img src="assets/h-about-2.svg" alt="About me" width="100%" />
 
 I'm a Software Engineering graduate from The Hashemite University. I like turning an idea into something people can actually click through, from the database and API behind it to the screen in front of it.
 
@@ -13,11 +13,11 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 - UI/UX Design certified, so I care how things look and feel
 - Open to junior full-stack, frontend and .NET roles in Amman
 
-<img src="assets/h-tech.svg" alt="Tech stack" width="100%" />
+<img src="assets/h-tech-2.svg" alt="Tech stack" width="100%" />
 
-<img src="assets/tech.svg" alt="C#, .NET, React, Next.js, JavaScript, HTML, CSS, Figma, Git" width="100%" />
+<img src="assets/tech-2.svg" alt="C#, .NET, React, Next.js, JavaScript, HTML, CSS, Figma, Git" width="100%" />
 
-<img src="assets/h-projects.svg" alt="Projects" width="100%" />
+<img src="assets/h-projects-2.svg" alt="Projects" width="100%" />
 
 | | Project | What it is | Built with |
 | :---: | --- | --- | --- |
@@ -27,13 +27,13 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 | <img src="assets/folder.svg" width="20" alt="" /> | **[Sports Shoes](https://github.com/Marah-Eid/SportsShoesEcommerceV2)** | Responsive online shop | `HTML` `CSS` `JavaScript` |
 | <img src="assets/folder.svg" width="20" alt="" /> | **[Identity App](https://github.com/Marah-Eid/IdentityApp)** | Sign-up, login and roles | `ASP.NET Core Identity` |
 
-<img src="assets/h-connect.svg" alt="Connect" width="100%" />
+<img src="assets/h-connect-2.svg" alt="Connect" width="100%" />
 
 <div align="center">
 
-<a href="mailto:maraheid228@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="36" /></a>
+<a href="mailto:maraheid228@gmail.com"><img src="assets/btn-email-2.svg" alt="Email" height="36" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/marahalnaimat"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="36" /></a>
+<a href="https://www.linkedin.com/in/marahalnaimat"><img src="assets/btn-linkedin-2.svg" alt="LinkedIn" height="36" /></a>
 
 <br>
 
