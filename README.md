@@ -35,6 +35,8 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/marahalnaimat"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="36" /></a>
 
-</div>
+<br>
 
-<img src="assets/footer.svg" alt="Based in Amman, Jordan" width="100%" />
+<sub>Based in Amman, Jordan</sub>
+
+</div>
