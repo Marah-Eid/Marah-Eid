@@ -19,11 +19,13 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 
 <img src="assets/h-projects.svg" alt="Projects" width="100%" />
 
-- **[SWAG](https://github.com/Marah-Eid/SWAG-App)**: graduation project, a mobile app built with React Native and Expo
-- **[Final Project](https://github.com/Marah-Eid/FinalProject)**: Orange Coding School graduation project (HTML, CSS, JavaScript)
-- **[EcommerceMVC](https://github.com/Marah-Eid/EcommerceMVC)**: e-commerce web app with ASP.NET Core MVC and SQL Server
-- **[Sports Shoes](https://github.com/Marah-Eid/SportsShoesEcommerceV2)**: responsive online shop (HTML, CSS, JavaScript)
-- **[Identity App](https://github.com/Marah-Eid/IdentityApp)**: sign-up, login and roles with ASP.NET Core Identity
+| | Project | What it is | Built with |
+| :---: | --- | --- | --- |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[SWAG](https://github.com/Marah-Eid/SWAG-App)** | Graduation project, a mobile app | `React Native` `Expo` |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[Final Project](https://github.com/Marah-Eid/FinalProject)** | Orange Coding School graduation project | `HTML` `CSS` `JavaScript` |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[EcommerceMVC](https://github.com/Marah-Eid/EcommerceMVC)** | E-commerce web app | `ASP.NET Core MVC` `SQL Server` |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[Sports Shoes](https://github.com/Marah-Eid/SportsShoesEcommerceV2)** | Responsive online shop | `HTML` `CSS` `JavaScript` |
+| <img src="assets/folder.svg" width="20" alt="" /> | **[Identity App](https://github.com/Marah-Eid/IdentityApp)** | Sign-up, login and roles | `ASP.NET Core Identity` |
 
 <img src="assets/h-connect.svg" alt="Connect" width="100%" />
 
