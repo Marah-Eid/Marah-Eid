@@ -6,12 +6,9 @@
 
 <img src="assets/h-about-2.svg" alt="About me" width="100%" />
 
-I'm a Software Engineering graduate from The Hashemite University. I like turning an idea into something people can actually click through, from the database and API behind it to the screen in front of it.
+I'm a junior software engineer who graduated from The Hashemite University. I build web and mobile apps end to end, from the database and API to the screen, and I care a lot about how they look and feel.
 
-- Frontend Developer Intern at Excellence Smart Solutions (React, Next.js, React Native / Expo)
-- Full-Stack Intern at Orange Coding School (ASP.NET Core MVC)
-- UI/UX Design certified, so I care how things look and feel
-- Open to junior full-stack, frontend and .NET roles in Amman
+I've interned as a frontend developer at Excellence Smart Solutions, working with React, Next.js and React Native, and as a full-stack developer at Orange Coding School, working with ASP.NET Core MVC. I'm also UI/UX Design certified. I want to keep growing in this field and learn from a real team.
 
 <img src="assets/h-tech-2.svg" alt="Tech stack" width="100%" />
 
