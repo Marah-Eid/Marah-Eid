@@ -47,12 +47,9 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 
 <div align="center">
 
-| | |
-| --- | --- |
-| ✉️ Email | [maraheid228@gmail.com](mailto:maraheid228@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/marahalnaimat](https://www.linkedin.com/in/marahalnaimat) |
-| 🎨 Behance | [behance.net/maraheid4](https://www.behance.net/maraheid4) |
-| 📍 Location | Amman, Jordan |
+<a href="mailto:maraheid228@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/marahalnaimat"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
 
 </div>
 
