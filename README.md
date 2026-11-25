@@ -56,17 +56,6 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 
 </div>
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Marah-Eid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marah-Eid&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Marah-Eid&theme=tokyonight&hide_border=true" alt="Streak stats" />
-
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:7c5cff&height=110&section=footer" alt="" />
