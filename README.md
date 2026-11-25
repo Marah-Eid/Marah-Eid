@@ -19,15 +19,11 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 
 <img src="assets/h-projects.svg" alt="Projects" width="100%" />
 
-<a href="https://github.com/Marah-Eid/SWAG-App"><img src="assets/card-swag.svg" alt="SWAG: graduation mobile app, React Native and Expo" width="100%" /></a>
-
-<a href="https://github.com/Marah-Eid/FinalProject"><img src="assets/card-final.svg" alt="Final Project: Orange Coding School graduation, HTML, CSS, JavaScript" width="100%" /></a>
-
-<a href="https://github.com/Marah-Eid/EcommerceMVC"><img src="assets/card-ecommerce.svg" alt="EcommerceMVC: e-commerce web app, ASP.NET Core MVC, SQL Server" width="100%" /></a>
-
-<a href="https://github.com/Marah-Eid/SportsShoesEcommerceV2"><img src="assets/card-shoes.svg" alt="Sports Shoes: responsive online shop, HTML, CSS, JavaScript" width="100%" /></a>
-
-<a href="https://github.com/Marah-Eid/IdentityApp"><img src="assets/card-identity.svg" alt="Identity App: sign-up, login and roles with ASP.NET Core Identity" width="100%" /></a>
+- **[SWAG](https://github.com/Marah-Eid/SWAG-App)**: graduation project, a mobile app built with React Native and Expo
+- **[Final Project](https://github.com/Marah-Eid/FinalProject)**: Orange Coding School graduation project (HTML, CSS, JavaScript)
+- **[EcommerceMVC](https://github.com/Marah-Eid/EcommerceMVC)**: e-commerce web app with ASP.NET Core MVC and SQL Server
+- **[Sports Shoes](https://github.com/Marah-Eid/SportsShoesEcommerceV2)**: responsive online shop (HTML, CSS, JavaScript)
+- **[Identity App](https://github.com/Marah-Eid/IdentityApp)**: sign-up, login and roles with ASP.NET Core Identity
 
 <img src="assets/h-connect.svg" alt="Connect" width="100%" />
 
