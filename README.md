@@ -38,9 +38,9 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 
 <div align="center">
 
-<a href="mailto:maraheid228@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="64" /></a>
+<a href="mailto:maraheid228@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/marahalnaimat"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="64" /></a>
+<a href="https://www.linkedin.com/in/marahalnaimat"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>
 
 </div>
 
