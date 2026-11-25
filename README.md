@@ -19,28 +19,23 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 
 <img src="assets/h-projects.svg" alt="Projects" width="100%" />
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Marah-Eid/SWAG-App"><img src="assets/card-swag.svg" alt="SWAG: graduation project, a mobile app built with Expo and React Native" width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/Marah-Eid/FinalProject"><img src="assets/card-final.svg" alt="Orange Coding School final project: HTML, CSS, JavaScript" width="100%" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Marah-Eid/EcommerceMVC"><img src="assets/card-ecommerce.svg" alt="EcommerceMVC: e-commerce web app with ASP.NET Core MVC" width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/Marah-Eid/SportsShoesEcommerceV2"><img src="assets/card-shoes.svg" alt="Sports Shoes E-commerce: responsive online shop, HTML, CSS, JavaScript" width="100%" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Marah-Eid/IdentityApp"><img src="assets/card-identity.svg" alt="Identity App: sign-up, login and roles with ASP.NET Core Identity" width="100%" /></a></td>
-<td width="50%"></td>
-</tr>
-</table>
+<a href="https://github.com/Marah-Eid/SWAG-App"><img src="assets/card-swag.svg" alt="SWAG: graduation mobile app, React Native and Expo" width="100%" /></a>
+
+<a href="https://github.com/Marah-Eid/FinalProject"><img src="assets/card-final.svg" alt="Final Project: Orange Coding School graduation, HTML, CSS, JavaScript" width="100%" /></a>
+
+<a href="https://github.com/Marah-Eid/EcommerceMVC"><img src="assets/card-ecommerce.svg" alt="EcommerceMVC: e-commerce web app, ASP.NET Core MVC, SQL Server" width="100%" /></a>
+
+<a href="https://github.com/Marah-Eid/SportsShoesEcommerceV2"><img src="assets/card-shoes.svg" alt="Sports Shoes: responsive online shop, HTML, CSS, JavaScript" width="100%" /></a>
+
+<a href="https://github.com/Marah-Eid/IdentityApp"><img src="assets/card-identity.svg" alt="Identity App: sign-up, login and roles with ASP.NET Core Identity" width="100%" /></a>
 
 <img src="assets/h-connect.svg" alt="Connect" width="100%" />
 
 <div align="center">
 
-<a href="mailto:maraheid228@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44" /></a>
+<a href="mailto:maraheid228@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="64" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/marahalnaimat"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>
+<a href="https://www.linkedin.com/in/marahalnaimat"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="64" /></a>
 
 </div>
 
