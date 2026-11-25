@@ -37,4 +37,4 @@ I'm a Software Engineering graduate from The Hashemite University. I like turnin
 
 </div>
 
-<img src="assets/footer.svg" alt="Thanks for visiting" width="100%" />
+<img src="assets/footer.svg" alt="Based in Amman, Jordan" width="100%" />
