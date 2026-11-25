@@ -33,7 +33,7 @@ Right now I'm looking for a junior full-stack, frontend or .NET role.
   </tr>
   <tr>
     <td><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=expo" alt="Expo" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React Native" /></td>
     <td>React Native, Expo</td>
   </tr>
   <tr>
